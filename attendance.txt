@@ -2,7 +2,6 @@ Who is present today?
 
 Jacob Tran
 Yii Van Tay
-Andrew Forbes
 Matthew Israelson
 Ly (Jane) Wong
 Ian Simpson
