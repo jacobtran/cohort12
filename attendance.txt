@@ -1,1 +1,24 @@
-Hacked!
+Who is present today?
+
+Jacob Tran
+Yii Van Tay
+Matthew Israelson
+Ly (Jane) Wong
+Ian Simpson
+Alex Tang
+Daniel Pinto
+Greg Leepart
+Owen Flood
+Jonathan Wong
+Todd Cardoso
+Cristian Guerrero Benitez
+Michael Christianson
+Kahlil Ashanti
+Quan Lee
+Gurbraj Singh
+Denis Trinh
+
+These students came up to the front of class:
+
+Jacob Tran
+Anne Shen
